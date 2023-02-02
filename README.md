@@ -1,2 +1,2 @@
 # MHD
-Code for our paper MHD
+Code will be available once the paper is accepted.
