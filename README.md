@@ -1,2 +1,2 @@
 # SAMD
-Code will be available once the paper is accepted.
+Code will be available after the approval of company.
